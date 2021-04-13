@@ -1,0 +1,9 @@
+
+Entity documentation:
+https://developer.android.com/training/data-storage/room/defining-data
+
+DAO documentation:
+https://developer.android.com/training/data-storage/room/accessing-data
+
+Room documentation:
+https://developer.android.com/training/data-storage/room
