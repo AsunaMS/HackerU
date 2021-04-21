@@ -29,3 +29,11 @@ CAMERA / GALLERY :
 <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 <uses-permission android:name="android.permission.CAMERA" />
+
+
+// Firebase 
+
+    implementation platform('com.google.firebase:firebase-bom:27.0.0')
+    implementation 'com.google.firebase:firebase-auth:20.0.4'
+    implementation 'com.google.firease:firebase-core:16.0.1'
+    implementation 'com.google.firebase:firebase-firestore'
