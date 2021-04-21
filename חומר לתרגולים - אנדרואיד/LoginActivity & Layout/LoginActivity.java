@@ -67,9 +67,6 @@ public class LoginActivity extends AppCompatActivity {
                         .createUserWithEmailAndPassword(getEmail(), getPassword())
                         .addOnSuccessListener(this, successListener)
                         .addOnFailureListener(this, failureListener);
-                // Add a new user to database -->
-                // Reference to our Database -> Example:
-                String key = usersReference.push().getKey();
             }
         });
 
