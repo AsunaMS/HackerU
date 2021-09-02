@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeLearn</string>
+    <string name="about_me">about me:</string>
+    <string name="subjects">subjects:</string>
+    <string name="price">price:</string>
+    <string name="save">save</string>
+    <string name="please_choose_a_subject">Please choose a subject:</string>
+    <string name="become_a_teacher">Become A Teacher</string>
+    <string name="search_teacher">Search Teacher</string>
+</resources>

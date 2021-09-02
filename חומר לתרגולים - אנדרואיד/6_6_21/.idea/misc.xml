@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.33125" />
+        <entry key="app/src/main/res/drawable/ic_baseline_mark_chat_unread_24.xml" value="0.33125" />
+        <entry key="app/src/main/res/drawable/ic_baseline_new_releases_24.xml" value="0.33125" />
+        <entry key="app/src/main/res/drawable/ic_baseline_school_24.xml" value="0.33125" />
+        <entry key="app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.33125" />
+        <entry key="app/src/main/res/layout/activity_about_me.xml" value="0.17083333333333334" />
+        <entry key="app/src/main/res/layout/activity_build_teacher_profile.xml" value="0.21739130434782608" />
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.21739130434782608" />
+        <entry key="app/src/main/res/layout/activity_home_page.xml" value="0.1716485507246377" />
+        <entry key="app/src/main/res/layout/activity_my_chats.xml" value="0.17083333333333334" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.1716485507246377" />
+        <entry key="app/src/main/res/layout/activity_search_teacher.xml" value="0.21105072463768115" />
+        <entry key="app/src/main/res/layout/message.xml" value="0.21739130434782608" />
+        <entry key="app/src/main/res/layout/rating_dialog.xml" value="0.1983695652173913" />
+        <entry key="app/src/main/res/layout/teacher_item.xml" value="0.335" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.3151041666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
