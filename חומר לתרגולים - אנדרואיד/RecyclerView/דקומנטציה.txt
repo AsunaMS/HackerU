@@ -1,3 +1,0 @@
-RecyclerView Documentation:
-
-https://developer.android.com/reference/kotlin/androidx/recyclerview/widget/RecyclerView
